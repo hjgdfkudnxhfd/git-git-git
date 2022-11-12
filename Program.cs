@@ -11,6 +11,7 @@ namespace git_git_git
         static void Main(string[] args)
         {
             Console.WriteLine("asdfghj");
+            int a = 100;
         }
     }
 }
