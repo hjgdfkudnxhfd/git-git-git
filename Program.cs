@@ -12,6 +12,7 @@ namespace git_git_git
         {
             Console.WriteLine("asdfghj");
             int a = 100;
+            string s = "qwfgbv";
         }
     }
 }
